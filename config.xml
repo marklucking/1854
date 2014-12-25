@@ -1,0 +1,65 @@
+<ibeacons>
+	<node>
+		<uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA2</uui>
+		<message>MTB floor 2</message>
+		<map>
+			<meters>32</meters>
+			<image>A2.1</image>
+		</map>
+		<map>
+			<meters>16</meters>
+			<image>A2.2</image>
+            <audio>A2.3</audio>
+		</map>
+	</node>
+<node>
+    <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFC3</uui>
+    <message>C3 Beacon</message>
+        <map>
+            <meters>32</meters>
+            <image>mapzero</image>
+        </map>
+        <map>
+            <meters>8</meters>
+            <image>mapone</image>
+        </map>
+        <map>
+            <meters>4</meters>
+            <image>maptwo</image>
+            <audio>maptwoA</audio>
+        </map>
+        <map>
+            <meters>2</meters>
+            <image>mapthree</image>
+            <audio>mapthreeA</audio>
+        </map>
+        <map>
+            <meters>1</meters>
+            <audio>mapfourA</audio>
+            <anim>
+                <image>mapfour.1</image>
+                <image>mapfour.2</image>
+            </anim>
+        </map>
+    </node>
+<node>
+	<uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA4</uui>
+    <message>MTB floor 2</message>
+    <map>
+        <meters>48</meters>
+        <anim>
+            <image>A4.A4</image>
+            <image>A4.2</image>
+            <image>A4.3</image>
+        </anim>
+    </map>
+    <map>
+        <meters>8</meters>
+        <audio>A4.3</audio>
+        <anim>
+            <image>A4.4</image>
+            <image>A4.5</image>
+	    </anim>
+        </map>
+    </node>
+</ibeacons>
