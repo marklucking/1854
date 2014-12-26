@@ -26,16 +26,16 @@
         <map>
             <meters>4</meters>
             <image>maptwo</image>
-            <audio>maptwoA</audio>
+            <audio>maptwo</audio>
         </map>
         <map>
             <meters>2</meters>
             <image>mapthree</image>
-            <audio>mapthreeA</audio>
+            <audio>mapthree</audio>
         </map>
         <map>
             <meters>1</meters>
-            <audio>mapfourA</audio>
+            <audio>mapfour</audio>
             <anim>
                 <image>mapfour.1</image>
                 <image>mapfour.2</image>
