@@ -142,11 +142,19 @@
         <message>A1 Beacon</message>
         <map>
         <meters>32</meters>
-        <image>blah</image>
+        <image>speaking</image>
         </map>
 </node>
 <node>
         <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA9</uui>
+        <message>A1 Beacon</message>
+        <map>
+        <meters>32</meters>
+        <image>blah</image>
+        </map>
+</node>
+<node>
+       A <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFAA</uui>
         <message>A1 Beacon</message>
         <map>
         <meters>32</meters>
