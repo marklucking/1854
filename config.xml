@@ -49,23 +49,39 @@
         </map>
     </node>
 <node>
-	<uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA4</uui>
-    <message>MTB floor 2</message>
+	<uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFB5</uui>
+    <message>B5 Beacon</message>
     <map>
-        <meters>48</meters>
+        <meters>8</meters>
         <anim>
-            <image>A4.A4</image>
-            <image>A4.2</image>
-            <image>A4.3</image>
+            <image>mapB5zero.1</image>
+            <image>mapB5zero.2</image>
+            <image>mapB5zero.3</image>
         </anim>
     </map>
     <map>
-        <meters>8</meters>
-        <audio>A4.3</audio>
+        <meters>4</meters>
+        <audio>mapB5audio</audio>
         <anim>
-            <image>A4.4</image>
-            <image>A4.5</image>
+            <image>mapB5one.1</image>
+            <image>mapB5one.2</image>
 	    </anim>
+        </map>
+<map>
+        <meters>2</meters>
+        <audio>mapB5three</audio>
+        <anim>
+            <image>mapB5two.1</image>
+            <image>mapB5two.2</image>
+            </anim>
+        </map>
+<map>
+        <meters>1</meters>
+        <audio>mapB5three</audio>
+        <anim>
+            <image>mapB5three.1</image>
+            <image>mapB5three.2</image>
+            </anim>
         </map>
     </node>
 </ibeacons>
