@@ -52,7 +52,7 @@
 	<uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFB5</uui>
     <message>B5 Beacon</message>
     <map>
-        <meters>8</meters>
+        <meters>32</meters>
         <anim>
             <image>mapB5zero.1</image>
             <image>mapB5zero.2</image>
@@ -60,24 +60,21 @@
         </anim>
     </map>
     <map>
-        <meters>4</meters>
-        <audio>mapB5audio</audio>
+        <meters>8</meters>
         <anim>
             <image>mapB5one.1</image>
             <image>mapB5one.2</image>
 	    </anim>
         </map>
 <map>
-        <meters>2</meters>
-        <audio>mapB5audio</audio>
+        <meters>4</meters>
         <anim>
             <image>mapB5two.1</image>
             <image>mapB5two.2</image>
             </anim>
         </map>
 <map>
-        <meters>1</meters>
-        <audio>mapB5audio</audio>
+        <meters>2</meters>
         <anim>
             <image>mapB5three.1</image>
             <image>mapB5three.2</image>
