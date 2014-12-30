@@ -63,6 +63,7 @@
             <meters>1</meters>
             <audio>mapfour</audio>
             <anim>
+                <delay>1</delay>
                 <image>mapfour.1</image>
                 <image>mapfour.2</image>
             </anim>
