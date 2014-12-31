@@ -7,35 +7,8 @@
 			<image>mapC4zero</image>
 		</map>
 		<map>
-			<meters>16</meters>
-            <anim>
-                <image>p1</image>
-                <image>p2</image>
-                <image>p3</image>
-                <image>p4</image>
-                <image>p5</image>
-                <image>p6</image>
-                <image>p7</image>
-                <image>p8</image>
-                <image>p9</image>
-                <image>p10</image>
-                <image>p11</image>
-                <image>p12</image>
-                <image>p13</image>
-                <image>p14</image>
-                <image>q15</image>
-                <image>q16</image>
-                <image>q17</image>
-                <image>q18</image>
-                <image>q19</image>
-                <image>q20</image>
-                <image>q21</image>
-                <image>q22</image>
-                <image>q23</image>
-                <image>q24</image>
-                <image>q25</image>
-                <image>q26</image>
-            </anim>
+			<meters>8</meters>
+            <image>mapC4one</image>
 		</map>
 	</node>
 <node>
@@ -64,6 +37,7 @@
             <audio>mapfour</audio>
             <anim>
                 <delay>1</delay>
+                <repeat>1</repeat>
                 <image>mapfour.1</image>
                 <image>mapfour.2</image>
             </anim>
