@@ -81,36 +81,36 @@
 	<message>A1 Beacon</message>
 	<map>
 	<meters>32</meters>
-	<image>blah</image>
+	<image>rb</image>
 	</map>
 </node>
 <node>
         <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA2</uui>
-        <message>A1 Beacon</message>
+        <message>A2 Beacon</message>
         <map>
         <meters>32</meters>
-        <image>blah</image>
+        <image>bb</image>
         </map>
 </node>
 <node>
         <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA3</uui>
-        <message>A1 Beacon</message>
+        <message>A3 Beacon</message>
         <map>
         <meters>32</meters>
-        <image>blah</image>
+        <image>rb</image>
         </map>
 </node>
 <node>
         <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA4</uui>
-        <message>A1 Beacon</message>
+        <message>A4 Beacon</message>
         <map>
         <meters>32</meters>
-        <image>blah</image>
+        <image>yb</image>
         </map>
 </node>
 <node>
         <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA5</uui>
-        <message>A1 Beacon</message>
+        <message>A5 Beacon</message>
         <map>
         <meters>32</meters>
         <image>blah</image>
@@ -118,7 +118,7 @@
 </node>
 <node>
         <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA6</uui>
-        <message>A1 Beacon</message>
+        <message>A6 Beacon</message>
         <map>
         <meters>32</meters>
         <image>blah</image>
@@ -126,7 +126,7 @@
 </node>
 <node>
         <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA7</uui>
-        <message>A1 Beacon</message>
+        <message>A7 Beacon</message>
         <map>
         <meters>32</meters>
         <image>blah</image>
@@ -134,7 +134,7 @@
 </node>
 <node>
         <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA8</uui>
-        <message>A1 Beacon</message>
+        <message>A8 Beacon</message>
         <map>
         <meters>32</meters>
         <image>blah</image>
@@ -143,7 +143,7 @@
 </node>
 <node>
         <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA9</uui>
-        <message>A1 Beacon</message>
+        <message>A19 Beacon</message>
         <map>
         <meters>32</meters>
         <image>blah</image>
@@ -151,7 +151,7 @@
 </node>
 <node>
        A <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFAA</uui>
-        <message>A1 Beacon</message>
+        <message>AA Beacon</message>
         <map>
         <meters>32</meters>
         <image>blah</image>
