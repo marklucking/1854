@@ -78,34 +78,38 @@
     </node>
     <node>
 	<uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA1</uui>
-	<message>A1 Beacon</message>
+	<message>A1 red Beacon</message>
 	<map>
 	<meters>32</meters>
 	<image>rb</image>
+	<audio>red</audio>
 	</map>
 </node>
 <node>
         <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA2</uui>
-        <message>A2 Beacon</message>
+        <message>A2 blue Beacon</message>
         <map>
         <meters>32</meters>
         <image>bb</image>
+	<audio>blue</audio>
         </map>
 </node>
 <node>
         <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA3</uui>
-        <message>A3 Beacon</message>
+        <message>A3 yellow Beacon</message>
         <map>
         <meters>32</meters>
-        <image>rb</image>
+        <image>yb</image>
+	<audio>yellow</audio>
         </map>
 </node>
 <node>
         <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA4</uui>
-        <message>A4 Beacon</message>
+        <message>A4 green Beacon</message>
         <map>
         <meters>32</meters>
-        <image>yb</image>
+        <image>gb</image>
+	<audio>green</audio>
         </map>
 </node>
 <node>
