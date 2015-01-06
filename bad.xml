@@ -1,0 +1,165 @@
+<ibeacons>
+	<node>
+		<uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFC3<uui>
+		<message>C3 Beacon</message>
+		<map>
+			<meters>32</meters>
+			<image>mapC4zero</image>
+		</map>
+		<map>
+			<meters>8</meters>
+            <image>x4096x2048</image>
+		</map>
+	</node>
+<node>
+    <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFC2</uui>
+    <message>C2 Beacon</message>
+        <map>
+            <meters>32</meters>
+            <image>mapzero</image>
+        </map>
+        <map>
+            <meters>8</meters>
+            <image>mapone</image>
+        </map>
+        <map>
+            <meters>4</meters>
+            <image>maptwo</image>
+            <audio>maptwo</audio>
+        </map>
+        <map>
+            <meters>2</meters>
+            <image>mapthree</image>
+            <audio>mapthree</audio>
+        </map>
+        <map>
+            <meters>1</meters>
+            <audio>mapfour</audio>
+            <anim>
+                <delay>1</delay>
+                <repeat>1</repeat>
+                <image>mapfour.1</image>
+                <image>mapfour.2</image>
+            </anim>
+        </map>
+    </node>
+<node>
+	<uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFB5</uui>
+    <message>B5 Beacon</message>
+    <map>
+        <meters>32</meters>
+        <anim>
+            <image>mapB5zero.1</image>
+            <image>mapB5zero.2</image>
+            <image>mapB5zero.3</image>
+        </anim>
+    </map>
+    <map>
+        <meters>8</meters>
+        <anim>
+            <image>mapB5one.1</image>
+            <image>mapB5one.2</image>
+	    </anim>
+        </map>
+<map>
+        <meters>4</meters>
+        <anim>
+            <image>mapB5two.1</image>
+            <image>mapB5two.2</image>
+            </anim>
+        </map>
+<map>
+        <meters>2</meters>
+        <anim>
+            <image>mapB5three.1</image>
+            <image>mapB5three.2</image>
+            </anim>
+        </map>
+    </node>
+    <node>
+	<uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA1</uui>
+	<message>A1 red Beacon</message>
+	<map>
+	<meters>32</meters>
+	<image>rb</image>
+	<audio>red</audio>
+	</map>
+</node>
+<node>
+        <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA2</uui>
+        <message>A2 blue Beacon</message>
+        <map>
+        <meters>32</meters>
+        <image>bb</image>
+	<audio>blue</audio>
+        </map>
+</node>
+<node>
+        <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA3</uui>
+        <message>A3 yellow Beacon</message>
+        <map>
+        <meters>32</meters>
+        <image>yb</image>
+	<audio>yellow</audio>
+        </map>
+</node>
+<node>
+        <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA4</uui>
+        <message>A4 green Beacon</message>
+        <map>
+        <meters>32</meters>
+        <image>gb</image>
+	<audio>green</audio>
+        </map>
+</node>
+<node>
+        <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA5</uui>
+        <message>A5 Beacon</message>
+        <map>
+        <meters>32</meters>
+        <image>blah</image>
+        </map>
+</node>
+<node>
+        <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA6</uui>
+        <message>A6 Beacon</message>
+        <map>
+        <meters>32</meters>
+        <image>blah</image>
+        </map>
+</node>
+<node>
+        <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA7</uui>
+        <message>A7 Beacon</message>
+        <map>
+        <meters>32</meters>
+        <image>blah</image>
+        </map>
+</node>
+<node>
+        <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA8</uui>
+        <message>A8 Beacon</message>
+        <map>
+        <meters>32</meters>
+        <image>blah</image>
+        <web>http://telegraph.co.uk</web>
+        </map>
+</node>
+<node>
+        <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA9</uui>
+        <message>A19 Beacon</message>
+        <map>
+        <meters>32</meters>
+        <image>blah</image>
+        </map>
+</node>
+<node>
+       A <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFAA</uui>
+        <message>AA Beacon</message>
+        <map>
+        <meters>32</meters>
+        <image>blah</image>
+        </map>
+</node>
+
+</ibeacons>
