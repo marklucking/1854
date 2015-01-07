@@ -36,8 +36,8 @@
             <meters>1</meters>
             <audio>mapfour</audio>
             <anim>
-                <delay>1</delay>
-                <repeat>1</repeat>
+                <delay>0.5</delay>
+                <repeat>-1</repeat>
                 <image>mapfour.1</image>
                 <image>mapfour.2</image>
             </anim>
