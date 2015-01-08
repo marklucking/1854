@@ -1,4 +1,8 @@
 <ibeacons>
+    <stat1>4</stat1>
+    <stat2>4</stat2>
+    <splash>splash</splash>
+    <finish>finish</finish>
 	<node>
 		<uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFC3</uui>
 		<message>C3 Beacon</message>
