@@ -1,6 +1,6 @@
 <ibeacons>
-    <stat1>4</stat1>
-    <stat2>4</stat2>
+    <sightings>4</sightings>
+    <samples>4</samples>
     <splash>splash</splash>
     <finish>finish</finish>
 	<node>
