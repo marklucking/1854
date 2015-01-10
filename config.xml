@@ -38,12 +38,22 @@
         </map>
         <map>
             <meters>1</meters>
-            <audio>mapfour</audio>
+            <audio>mapfourN</audio>
+            <direction>north</direction>
             <anim>
                 <delay>0.5</delay>
                 <repeat>-1</repeat>
-                <image>mapfour.1</image>
-                <image>mapfour.2</image>
+                <image>mapfour.1N</image>
+                <image>mapfour.2N</image>
+            </anim>
+            <meters>1</meters>
+            <direction>south</direction>
+            <audio>mapfourS</audio>
+            <anim>
+                <delay>0.5</delay>
+                <repeat>-1</repeat>
+                <image>mapfour.1S</image>
+                <image>mapfour.2S</image>
             </anim>
         </map>
     </node>
