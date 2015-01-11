@@ -46,6 +46,8 @@
                 <image>mapfour.1N</image>
                 <image>mapfour.2N</image>
             </anim>
+        </map>
+        <map>
             <meters>1</meters>
             <direction>south</direction>
             <audio>mapfourS</audio>
