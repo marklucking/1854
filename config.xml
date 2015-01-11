@@ -49,6 +49,17 @@
         </map>
         <map>
             <meters>1</meters>
+            <audio>mapfourN</audio>
+            <direction>east</direction>
+            <anim>
+                <delay>0.5</delay>
+                <repeat>-1</repeat>
+                <image>mapfour.1E</image>
+                <image>mapfour.2E</image>
+            </anim>
+        </map>
+        <map>
+            <meters>1</meters>
             <direction>south</direction>
             <audio>mapfourS</audio>
             <anim>
@@ -56,6 +67,17 @@
                 <repeat>-1</repeat>
                 <image>mapfour.1S</image>
                 <image>mapfour.2S</image>
+            </anim>
+        </map>
+        <map>
+            <meters>1</meters>
+            <audio>mapfourN</audio>
+            <direction>west</direction>
+            <anim>
+                <delay>0.5</delay>
+                <repeat>-1</repeat>
+                <image>mapfour.1W</image>
+                <image>mapfour.2W</image>
             </anim>
         </map>
     </node>
