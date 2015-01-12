@@ -175,26 +175,22 @@
         <map>
             <meters>32</meters>
             <direction>north</direction>
-            <image>gb</image>
-            <audio>gb.1N</audio>
+            <image>gb.1N</image>
         </map>
         <map>
             <meters>32</meters>
             <direction>east</direction>
-            <image>gb</image>
-            <audio>gb.1E</audio>
+            <image>gb.1E</image>
         </map>
         <map>
             <meters>32</meters>
             <direction>south</direction>
-            <image>gb</image>
-            <audio>gb.1S</audio>
+            <image>gb1.S</image>
         </map>
         <map>
             <meters>32</meters>
             <direction>west</direction>
-            <image>gb</image>
-            <audio>gb.1W</audio>
+            <image>gb.1W</image>
         </map>
 </node>
 <node>
