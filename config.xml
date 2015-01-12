@@ -189,9 +189,33 @@
         <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA3</uui>
         <message>A3 yellow Beacon</message>
         <map>
-        <meters>32</meters>
-        <image>yb</image>
-        <audio>yellow</audio>
+            <meters>32</meters>
+            <image>yb</image>
+            <audio>yellow</audio>
+        </map>
+        <map>
+            <meters>16</meters>
+            <direction>rest</direction>
+            <image>yb</image>
+            <audio>yellow</audio>
+        </map>
+        <map>
+            <meters>16</meters>
+            <direction>south</direction>
+            <image>yb.1E</image>
+            <audio>yellow</audio>
+        </map>
+        <map>
+            <meters>16</meters>
+            <direction>rest</direction>
+            <image>yb</image>
+            <audio>yellow</audio>
+        </map>
+        <map>
+            <meters>16</meters>
+            <direction>west</direction>
+            <image>yb.1W</image>
+            <audio>yellow</audio>
         </map>
 </node>
 <node>
