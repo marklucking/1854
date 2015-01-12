@@ -173,10 +173,10 @@
         <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA4</uui>
         <message>A4 green Beacon</message>
         <map>
-        <meters>32</meters>
-        <direction>north</direction>
-        <image>gb</image>
-        <audio>gb.1N</audio>
+            <meters>32</meters>
+            <direction>north</direction>
+            <image>gb</image>
+            <audio>gb.1N</audio>
         </map>
         <map>
             <meters>32</meters>
