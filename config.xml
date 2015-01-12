@@ -150,6 +150,19 @@
 	<image>rb</image>
 	<audio>red</audio>
 	</map>
+    <map>
+        <meters>16</meters>
+        <direction>north</direction>
+        <image>rb.1N</image>
+        <audio>red</audio>
+    </map>
+    <map>
+        <meters>16</meters>
+        <direction>rest</direction>
+        <image>rb</image>
+        <audio>red</audio>
+    </map>
+    
 </node>
 <node>
         <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA2</uui>
