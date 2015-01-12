@@ -166,7 +166,7 @@
         <map>
         <meters>32</meters>
         <image>yb</image>
-	<audio>yellow</audio>
+        <audio>yellow</audio>
         </map>
 </node>
 <node>
@@ -174,8 +174,27 @@
         <message>A4 green Beacon</message>
         <map>
         <meters>32</meters>
+        <direction>north</direction>
         <image>gb</image>
-	<audio>green</audio>
+        <audio>green.1N</audio>
+        </map>
+        <map>
+            <meters>32</meters>
+            <direction>east</direction>
+            <image>gb</image>
+            <audio>green.1E</audio>
+        </map>
+        <map>
+            <meters>32</meters>
+            <direction>south</direction>
+            <image>gb</image>
+            <audio>green.1S</audio>
+        </map>
+        <map>
+            <meters>32</meters>
+            <direction>west</direction>
+            <image>gb</image>
+            <audio>green.1W</audio>
         </map>
 </node>
 <node>
