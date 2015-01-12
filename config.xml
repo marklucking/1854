@@ -19,7 +19,7 @@
             </anim>
 		</map>
         <map>
-            <meters>1</meters>
+            <meters>4</meters>
             <direction>east</direction>
             <anim>
                 <image>mapC3zero.1E</image>
@@ -27,7 +27,7 @@
             </anim>
         </map>
         <map>
-            <meters>1</meters>
+            <meters>4</meters>
             <direction>south</direction>
             <anim>
                 <image>mapC3zero.1S</image>
@@ -35,7 +35,7 @@
             </anim>
         </map>
         <map>
-            <meters>1</meters>
+            <meters>4</meters>
             <direction>west</direction>
             <anim>
                 <image>mapC3zero.1W</image>
