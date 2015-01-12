@@ -11,7 +11,7 @@
 			<image>mapC3one</image>
 		</map>
 		<map>
-			<meters>1</meters>
+			<meters>4</meters>
             <direction>north</direction>
             <anim>
                 <image>mapC3zero.1N</image>
