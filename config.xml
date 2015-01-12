@@ -12,6 +12,7 @@
 		</map>
 		<map>
 			<meters>1</meters>
+            <direction>north</direction>
             <anim>
                 <image>mapC3zero.1N</image>
                 <image>mapC3zero.2N</image>
@@ -19,6 +20,7 @@
 		</map>
         <map>
             <meters>1</meters>
+            <direction>east</direction>
             <anim>
                 <image>mapC3zero.1E</image>
                 <image>mapC3zero.2E</image>
@@ -26,6 +28,7 @@
         </map>
         <map>
             <meters>1</meters>
+            <direction>south</direction>
             <anim>
                 <image>mapC3zero.1S</image>
                 <image>mapC3zero.2S</image>
@@ -33,6 +36,7 @@
         </map>
         <map>
             <meters>1</meters>
+            <direction>west</direction>
             <anim>
                 <image>mapC3zero.1W</image>
                 <image>mapC3zero.2W</image>
