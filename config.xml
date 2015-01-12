@@ -8,12 +8,36 @@
 		<message>C3 Beacon</message>
 		<map>
 			<meters>32</meters>
-			<image>mapC4zero</image>
+			<image>mapC3one</image>
 		</map>
 		<map>
-			<meters>8</meters>
-            <image>x4096x2048</image>
+			<meters>1</meters>
+            <anim>
+                <image>mapC3zero.1N</image>
+                <image>mapC3zero.2N</image>
+            </anim>
 		</map>
+        <map>
+            <meters>1</meters>
+            <anim>
+                <image>mapC3zero.1E</image>
+                <image>mapC3zero.2E</image>
+            </anim>
+        </map>
+        <map>
+            <meters>1</meters>
+            <anim>
+                <image>mapC3zero.1S</image>
+                <image>mapC3zero.2S</image>
+            </anim>
+        </map>
+        <map>
+            <meters>1</meters>
+            <anim>
+                <image>mapC3zero.1W</image>
+                <image>mapC3zero.2W</image>
+            </anim>
+        </map>
 	</node>
 <node>
     <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFC2</uui>
