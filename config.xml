@@ -162,6 +162,18 @@
         <image>rb</image>
         <audio>red</audio>
     </map>
+    <map>
+        <meters>16</meters>
+        <direction>rest</direction>
+        <image>rb</image>
+        <audio>red</audio>
+    </map>
+    <map>
+        <meters>16</meters>
+        <direction>rest</direction>
+        <image>rb</image>
+        <audio>red</audio>
+    </map>
     
 </node>
 <node>
