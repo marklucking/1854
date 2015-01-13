@@ -12,7 +12,7 @@
 		</map>
 		<map>
 			<meters>4</meters>
-            <direction>north</direction>
+            <direction>North</direction>
             <anim>
                 <image>mapC3zero.1N</image>
                 <image>mapC3zero.2N</image>
@@ -20,7 +20,7 @@
 		</map>
         <map>
             <meters>4</meters>
-            <direction>east</direction>
+            <direction>East</direction>
             <anim>
                 <image>mapC3zero.1E</image>
                 <image>mapC3zero.2E</image>
@@ -28,7 +28,7 @@
         </map>
         <map>
             <meters>4</meters>
-            <direction>south</direction>
+            <direction>South</direction>
             <anim>
                 <image>mapC3zero.1S</image>
                 <image>mapC3zero.2S</image>
@@ -36,7 +36,7 @@
         </map>
         <map>
             <meters>4</meters>
-            <direction>west</direction>
+            <direction>West</direction>
             <anim>
                 <image>mapC3zero.1W</image>
                 <image>mapC3zero.2W</image>
@@ -67,7 +67,7 @@
         <map>
             <meters>1</meters>
             <audio>mapfourN</audio>
-            <direction>north</direction>
+            <direction>North</direction>
             <anim>
                 <delay>0.5</delay>
                 <repeat>-1</repeat>
@@ -78,7 +78,7 @@
         <map>
             <meters>1</meters>
             <audio>mapfourN</audio>
-            <direction>east</direction>
+            <direction>East</direction>
             <anim>
                 <delay>0.5</delay>
                 <repeat>-1</repeat>
@@ -88,7 +88,7 @@
         </map>
         <map>
             <meters>1</meters>
-            <direction>south</direction>
+            <direction>South</direction>
             <audio>mapfourS</audio>
             <anim>
                 <delay>0.5</delay>
@@ -100,7 +100,7 @@
         <map>
             <meters>1</meters>
             <audio>mapfourN</audio>
-            <direction>west</direction>
+            <direction>West</direction>
             <anim>
                 <delay>0.5</delay>
                 <repeat>-1</repeat>
@@ -152,7 +152,7 @@
 	</map>
     <map>
         <meters>16</meters>
-        <direction>north</direction>
+        <direction>North</direction>
         <image>rb.1N</image>
         <audio>red</audio>
     </map>
@@ -164,7 +164,7 @@
     </map>
     <map>
         <meters>16</meters>
-        <direction>south</direction>
+        <direction>South</direction>
         <image>rb.1S</image>
         <audio>red</audio>
     </map>
@@ -201,7 +201,7 @@
         </map>
         <map>
             <meters>16</meters>
-            <direction>south</direction>
+            <direction>South</direction>
             <image>yb.1E</image>
             <audio>yellow</audio>
         </map>
@@ -213,7 +213,7 @@
         </map>
         <map>
             <meters>16</meters>
-            <direction>west</direction>
+            <direction>West</direction>
             <image>yb.1W</image>
             <audio>yellow</audio>
         </map>
@@ -223,22 +223,22 @@
         <message>A4 green Beacon</message>
         <map>
             <meters>32</meters>
-            <direction>north</direction>
+            <direction>North</direction>
             <image>gb.1N</image>
         </map>
         <map>
             <meters>32</meters>
-            <direction>east</direction>
+            <direction>East</direction>
             <image>gb.1E</image>
         </map>
         <map>
             <meters>32</meters>
-            <direction>south</direction>
+            <direction>South</direction>
             <image>gb1.S</image>
         </map>
         <map>
             <meters>32</meters>
-            <direction>west</direction>
+            <direction>West</direction>
             <image>gb.1W</image>
         </map>
 </node>
