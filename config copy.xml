@@ -10,40 +10,40 @@
 			<meters>32</meters>
 			<image>mapC3one</image>
 		</map>
-        <view>
 		<map>
+            <view>
 			<meters>4</meters>
-            <direction>North</direction>
-            <anim>
-                <image>mapC3zero.1N</image>
-                <image>mapC3zero.2N</image>
-            </anim>
-		</map>
-        <map>
-            <meters>4</meters>
-            <direction>East</direction>
-            <anim>
-                <image>mapC3zero.1E</image>
-                <image>mapC3zero.2E</image>
-            </anim>
-        </map>
-        <map>
-            <meters>4</meters>
-            <direction>South</direction>
-            <anim>
-                <image>mapC3zero.1S</image>
-                <image>mapC3zero.2S</image>
-            </anim>
-        </map>
-        <map>
-            <meters>4</meters>
-            <direction>West</direction>
-            <anim>
-                <image>mapC3zero.1W</image>
-                <image>mapC3zero.2W</image>
-            </anim>
-        </map>
-        </view>
+                <direction>North</direction>
+                <anim>
+                    <image>mapC3zero.1N</image>
+                    <image>mapC3zero.2N</image>
+                </anim>
+            </map>
+            <map>
+                <meters>4</meters>
+                <direction>East</direction>
+                <anim>
+                    <image>mapC3zero.1E</image>
+                    <image>mapC3zero.2E</image>
+                </anim>
+            </map>
+            <map>
+                <meters>4</meters>
+                <direction>South</direction>
+                <anim>
+                    <image>mapC3zero.1S</image>
+                    <image>mapC3zero.2S</image>
+                </anim>
+            </map>
+            <map>
+                <meters>4</meters>
+                <direction>West</direction>
+                <anim>
+                    <image>mapC3zero.1W</image>
+                    <image>mapC3zero.2W</image>
+                </anim>
+                </view>
+            </map>
 	</node>
 <node>
     <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFC2</uui>
