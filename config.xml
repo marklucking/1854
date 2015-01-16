@@ -66,6 +66,7 @@
             <image>mapthree</image>
             <audio>mapthree</audio>
         </map>
+        <view>
         <map>
             <meters>1</meters>
             <audio>mapfourN</audio>
@@ -110,6 +111,7 @@
                 <image>mapfour.2W</image>
             </anim>
         </map>
+        </view>
     </node>
 <node>
 	<uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFB5</uui>
@@ -152,6 +154,7 @@
 	<image>rb</image>
 	<audio>red</audio>
 	</map>
+    <view>
     <map>
         <meters>16</meters>
         <direction>North</direction>
@@ -176,7 +179,7 @@
         <image>rb</image>
         <audio>red</audio>
     </map>
-    
+    </view>
 </node>
 <node>
         <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA2</uui>
@@ -195,6 +198,7 @@
             <image>yb</image>
             <audio>yellow</audio>
         </map>
+        <view>
         <map>
             <meters>16</meters>
             <direction>rest</direction>
@@ -219,10 +223,12 @@
             <image>yb.1W</image>
             <audio>yellow</audio>
         </map>
+        </view>
 </node>
 <node>
         <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA4</uui>
         <message>A4 green Beacon</message>
+        <view>
         <map>
             <meters>32</meters>
             <direction>North</direction>
@@ -243,6 +249,7 @@
             <direction>West</direction>
             <image>gb.1W</image>
         </map>
+        </view>
 </node>
 <node>
         <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA5</uui>
@@ -286,7 +293,7 @@
         </map>
 </node>
 <node>
-       A <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFAA</uui>
+        <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFAA</uui>
         <message>AA Beacon</message>
         <map>
         <meters>32</meters>
