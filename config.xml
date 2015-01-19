@@ -6,39 +6,63 @@
 		<message>C3 Beacon</message>
 		<map>
 			<meters>32</meters>
-			<image>mapC3one</image>
+			<image>wb</image>
 		</map>
         <view>
 		<map>
 			<meters>4</meters>
             <direction>North</direction>
             <anim>
-                <image>mapC3zero.1N</image>
-                <image>mapC3zero.2N</image>
+                <image>wb.1N</image>
             </anim>
 		</map>
         <map>
             <meters>4</meters>
+            <direction>NE</direction>
+            <anim>
+                <image>wb.1NE</image>
+            </anim>
+        </map>
+        <map>
+            <meters>4</meters>
             <direction>East</direction>
             <anim>
-                <image>mapC3zero.1E</image>
-                <image>mapC3zero.2E</image>
+                <image>wb.1E</image>
+            </anim>
+        </map>
+        <map>
+            <meters>4</meters>
+            <direction>SE</direction>
+            <anim>
+                <image>wb.1SE</image>
             </anim>
         </map>
         <map>
             <meters>4</meters>
             <direction>South</direction>
             <anim>
-                <image>mapC3zero.1S</image>
-                <image>mapC3zero.2S</image>
+                <image>wb.1S</image>
+            </anim>
+        </map>
+        <map>
+            <meters>4</meters>
+            <direction>SW</direction>
+            <anim>
+                <image>wb.1SW</image>
             </anim>
         </map>
         <map>
             <meters>4</meters>
             <direction>West</direction>
             <anim>
-                <image>mapC3zero.1W</image>
-                <image>mapC3zero.2W</image>
+                <image>wb.1W</image>
+            </anim>
+        </map>
+        <map>
+            <meters>4</meters>
+            <direction>NW</direction>
+            <anim>
+                <image>wb.1NW</image>
             </anim>
         </map>
         </view>
