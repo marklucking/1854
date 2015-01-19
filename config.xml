@@ -40,56 +40,56 @@
         </view>
         <view>
 		<map>
-			<meters>4</meters>
+			<meters>1</meters>
             <direction>North</direction>
             <anim>
                 <image>wb.1N</image>
             </anim>
 		</map>
         <map>
-            <meters>4</meters>
+            <meters>1</meters>
             <direction>NE</direction>
             <anim>
                 <image>wb.1NE</image>
             </anim>
         </map>
         <map>
-            <meters>4</meters>
+            <meters>1</meters>
             <direction>East</direction>
             <anim>
                 <image>wb.1E</image>
             </anim>
         </map>
         <map>
-            <meters>4</meters>
+            <meters>1</meters>
             <direction>SE</direction>
             <anim>
                 <image>wb.1SE</image>
             </anim>
         </map>
         <map>
-            <meters>4</meters>
+            <meters>1</meters>
             <direction>South</direction>
             <anim>
                 <image>wb.1S</image>
             </anim>
         </map>
         <map>
-            <meters>4</meters>
+            <meters>1</meters>
             <direction>SW</direction>
             <anim>
                 <image>wb.1SW</image>
             </anim>
         </map>
         <map>
-            <meters>4</meters>
+            <meters>1</meters>
             <direction>West</direction>
             <anim>
                 <image>wb.1W</image>
             </anim>
         </map>
         <map>
-            <meters>4</meters>
+            <meters>1</meters>
             <direction>NW</direction>
             <anim>
                 <image>wb.1NW</image>
