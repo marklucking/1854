@@ -9,6 +9,36 @@
 			<image>wb</image>
 		</map>
         <view>
+            <map>
+                <meters>8</meters>
+                <direction>North</direction>
+                <anim>
+                    <image>bb.2N</image>
+                </anim>
+            </map>
+            <map>
+                <meters>8</meters>
+                <direction>East</direction>
+                <anim>
+                    <image>bb.2E</image>
+                </anim>
+            </map>
+            <map>
+                <meters>8</meters>
+                <direction>South</direction>
+                <anim>
+                    <image>bb.2S</image>
+                </anim>
+            </map>
+            <map>
+                <meters>8</meters>
+                <direction>West</direction>
+                <anim>
+                    <image>bb.2W</image>
+                </anim>
+            </map>
+        </view>
+        <view>
 		<map>
 			<meters>4</meters>
             <direction>North</direction>
