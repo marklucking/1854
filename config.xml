@@ -10,28 +10,28 @@
 		</map>
         <view>
             <map>
-                <meters>8</meters>
+                <meters>2</meters>
                 <direction>North</direction>
                 <anim>
                     <image>bb.2N</image>
                 </anim>
             </map>
             <map>
-                <meters>8</meters>
+                <meters>2</meters>
                 <direction>East</direction>
                 <anim>
                     <image>bb.2E</image>
                 </anim>
             </map>
             <map>
-                <meters>8</meters>
+                <meters>2</meters>
                 <direction>South</direction>
                 <anim>
                     <image>bb.2S</image>
                 </anim>
             </map>
             <map>
-                <meters>8</meters>
+                <meters>2</meters>
                 <direction>West</direction>
                 <anim>
                     <image>bb.2W</image>
