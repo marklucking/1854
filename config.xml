@@ -198,7 +198,7 @@
         </map>
     </view>
     <view>
-<map>
+        <map>
         <meters>4</meters>
         <anim>
             <image>mapB5two.1</image>
@@ -206,15 +206,15 @@
             </anim>
         </map>
         </view>
+        <view>
         <map>
-            <view>
         <meters>2</meters>
         <anim>
             <image>mapB5three.1</image>
             <image>mapB5three.2</image>
             </anim>
         </map>
-</view>
+        </view>
     </node>
     <node>
 	<uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA1</uui>
@@ -256,11 +256,13 @@
 <node>
         <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA2</uui>
         <message>A2 blue Beacon</message>
+        <view>
         <map>
         <meters>32</meters>
         <image>bb</image>
 	<audio>blue</audio>
         </map>
+        </view>
 </node>
 <node>
         <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA3</uui>
