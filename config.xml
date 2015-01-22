@@ -205,9 +205,9 @@
             <image>mapB5two.2</image>
             </anim>
         </map>
-<map>
-    </view>
-<view>
+        </view>
+        <map>
+            <view>
         <meters>2</meters>
         <anim>
             <image>mapB5three.1</image>
