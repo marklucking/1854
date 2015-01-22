@@ -270,7 +270,7 @@
         <view>
         <map>
             <meters>32</meters>
-            <image>yb</image>
+            <image>yb32</image>
             <audio>yellow</audio>
         </map>
         </view>
@@ -278,25 +278,7 @@
         <map>
             <meters>16</meters>
             <direction>rest</direction>
-            <image>yb</image>
-            <audio>yellow</audio>
-        </map>
-        <map>
-            <meters>16</meters>
-            <direction>South</direction>
-            <image>yb.1E</image>
-            <audio>yellow</audio>
-        </map>
-        <map>
-            <meters>16</meters>
-            <direction>rest</direction>
-            <image>yb</image>
-            <audio>yellow</audio>
-        </map>
-        <map>
-            <meters>16</meters>
-            <direction>West</direction>
-            <image>yb.1W</image>
+            <image>yb16</image>
             <audio>yellow</audio>
         </map>
         </view>
