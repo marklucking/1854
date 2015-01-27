@@ -110,13 +110,13 @@
        </view>
       <view>
         <map>
-            <meters>8</meters>
+            <meters>4</meters>
             <image>mapone</image>
         </map>
         </view>
       <view>
         <map>
-            <meters>4</meters>
+            <meters>3</meters>
             <image>maptwo</image>
             <audio>maptwo</audio>
         </map>
