@@ -277,7 +277,12 @@
         <view>
         <map>
             <meters>16</meters>
-            <image>3840x2400</image>
+            <image>3840x2400east</image>
+            <audio>yellow</audio>
+        </map>
+        <map>
+            <meters>16</meters>
+            <image>3840x2400west</image>
             <audio>yellow</audio>
         </map>
         </view>
