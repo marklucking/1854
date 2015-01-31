@@ -285,6 +285,11 @@
             <image>3840x2400west</image>
             <audio>yellow</audio>
         </map>
+        <map>
+            <meters>16</meters>
+            <image>3840x2400black</image>
+            <audio>yellow</audio>
+        </map>
         </view>
 </node>
 <node>
