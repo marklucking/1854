@@ -41,6 +41,7 @@
             </map>
         </view>
         <view>
+        <camera>on</camera>
 		<map>
 			<meters>1</meters>
             <direction>North</direction>
