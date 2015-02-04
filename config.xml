@@ -13,30 +13,58 @@
         <view>
             <map>
                 <meters>2</meters>
-                <direction>North</direction>
+                <direction>NORTH</direction>
                 <anim>
-                    <image>p1</image>
+                    <image>s1NORTH</image>
                 </anim>
             </map>
             <map>
                 <meters>2</meters>
-                <direction>East</direction>
+                <direction>NE</direction>
                 <anim>
-                    <image>p2</image>
+                    <image>s2NE</image>
                 </anim>
             </map>
             <map>
                 <meters>2</meters>
-                <direction>South</direction>
+                <direction>EAST</direction>
                 <anim>
-                    <image>p3</image>
+                    <image>s3EAST</image>
                 </anim>
             </map>
             <map>
                 <meters>2</meters>
-                <direction>West</direction>
+                <direction>SE</direction>
                 <anim>
-                    <image>p4</image>
+                    <image>s4SE</image>
+                </anim>
+            </map>
+            <map>
+                <meters>2</meters>
+                <direction>SOUTH</direction>
+                <anim>
+                    <image>s5SOUTH</image>
+                </anim>
+            </map>
+            <map>
+                <meters>2</meters>
+                <direction>SW</direction>
+                <anim>
+                    <image>s6SW</image>
+                </anim>
+            </map>
+            <map>
+                <meters>2</meters>
+                <direction>W</direction>
+                <anim>
+                    <image>s7WEST</image>
+                </anim>
+            </map>
+            <map>
+                <meters>2</meters>
+                <direction>NW</direction>
+                <anim>
+                    <image>s8NW</image>
                 </anim>
             </map>
         </view>
