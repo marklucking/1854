@@ -15,28 +15,28 @@
                 <meters>2</meters>
                 <direction>North</direction>
                 <anim>
-                    <image>bb.2N</image>
+                    <image>p1</image>
                 </anim>
             </map>
             <map>
                 <meters>2</meters>
                 <direction>East</direction>
                 <anim>
-                    <image>bb.2E</image>
+                    <image>p2</image>
                 </anim>
             </map>
             <map>
                 <meters>2</meters>
                 <direction>South</direction>
                 <anim>
-                    <image>bb.2S</image>
+                    <image>p3</image>
                 </anim>
             </map>
             <map>
                 <meters>2</meters>
                 <direction>West</direction>
                 <anim>
-                    <image>bb.2W</image>
+                    <image>p4</image>
                 </anim>
             </map>
         </view>
