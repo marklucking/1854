@@ -12,122 +12,63 @@
         </view>
         <view>
             <map>
-                <meters>2</meters>
+                <meters>1</meters>
                 <direction>NORTH</direction>
                 <anim>
                     <image>s1NORTH</image>
                 </anim>
             </map>
             <map>
-                <meters>2</meters>
+                <meters>1</meters>
                 <direction>NE</direction>
                 <anim>
                     <image>s2NE</image>
                 </anim>
             </map>
             <map>
-                <meters>2</meters>
+                <meters>1</meters>
                 <direction>EAST</direction>
                 <anim>
                     <image>s3EAST</image>
                 </anim>
             </map>
             <map>
-                <meters>2</meters>
+                <meters>1</meters>
                 <direction>SE</direction>
                 <anim>
                     <image>s4SE</image>
                 </anim>
             </map>
             <map>
-                <meters>2</meters>
+                <meters>1</meters>
                 <direction>SOUTH</direction>
                 <anim>
                     <image>s5SOUTH</image>
                 </anim>
             </map>
             <map>
-                <meters>2</meters>
+                <meters>1</meters>
                 <direction>SW</direction>
                 <anim>
                     <image>s6SW</image>
                 </anim>
             </map>
             <map>
-                <meters>2</meters>
+                <meters>1</meters>
                 <direction>W</direction>
                 <anim>
                     <image>s7WEST</image>
                 </anim>
             </map>
             <map>
-                <meters>2</meters>
+                <meters>1</meters>
                 <direction>NW</direction>
                 <anim>
                     <image>s8NW</image>
                 </anim>
             </map>
         </view>
-        <view>
-        <camera>on</camera>
-		<map>
-			<meters>1</meters>
-            <direction>North</direction>
-            <anim>
-                <image>wb.1N</image>
-            </anim>
-		</map>
-        <map>
-            <meters>1</meters>
-            <direction>NE</direction>
-            <anim>
-                <image>wb.1NE</image>
-            </anim>
-        </map>
-        <map>
-            <meters>1</meters>
-            <direction>East</direction>
-            <anim>
-                <image>wb.1E</image>
-            </anim>
-        </map>
-        <map>
-            <meters>1</meters>
-            <direction>SE</direction>
-            <anim>
-                <image>wb.1SE</image>
-            </anim>
-        </map>
-        <map>
-            <meters>1</meters>
-            <direction>South</direction>
-            <anim>
-                <image>wb.1S</image>
-            </anim>
-        </map>
-        <map>
-            <meters>1</meters>
-            <direction>SW</direction>
-            <anim>
-                <image>wb.1SW</image>
-            </anim>
-        </map>
-        <map>
-            <meters>1</meters>
-            <direction>West</direction>
-            <anim>
-                <image>wb.1W</image>
-            </anim>
-        </map>
-        <map>
-            <meters>1</meters>
-            <direction>NW</direction>
-            <anim>
-                <image>wb.1NW</image>
-            </anim>
-        </map>
-        </view>
-	</node>
+    </node>
 <node>
     <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFC2</uui>
     <message>C2 Beacon</message>
