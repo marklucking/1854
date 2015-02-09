@@ -15,56 +15,56 @@
                 <meters>2</meters>
                 <direction>NORTH</direction>
                 <anim>
-                    <image>e1.NORTH</image>
+                    <image>x2N</image>
                 </anim>
             </map>
             <map>
                 <meters>2</meters>
                 <direction>NE</direction>
                 <anim>
-                    <image>e1.NE</image>
+                    <image>x2NE</image>
                 </anim>
             </map>
             <map>
                 <meters>2</meters>
                 <direction>EAST</direction>
                 <anim>
-                    <image>e1.EAST</image>
+                    <image>x2E</image>
                 </anim>
             </map>
             <map>
                 <meters>2</meters>
                 <direction>SE</direction>
                 <anim>
-                    <image>e1.SE</image>
+                    <image>x2SE</image>
                 </anim>
             </map>
             <map>
                 <meters>2</meters>
                 <direction>SOUTH</direction>
                 <anim>
-                    <image>e1.SOUTH</image>
+                    <image>x2S</image>
                 </anim>
             </map>
             <map>
                 <meters>2</meters>
                 <direction>SW</direction>
                 <anim>
-                    <image>e1.SW</image>
+                    <image>x2SW</image>
                 </anim>
             </map>
             <map>
                 <meters>2</meters>
                 <direction>W</direction>
                 <anim>
-                    <image>e1.WEST</image>
+                    <image>x2W</image>
                 </anim>
             </map>
             <map>
                 <meters>2</meters>
                 <direction>NW</direction>
                 <anim>
-                    <image>e1.NW</image>
+                    <image>x2NW</image>
                 </anim>
             </map>
             </view>
