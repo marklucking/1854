@@ -11,7 +11,6 @@
 		</map>
         </view>
         <view>
-            <logo>drako</logo>
             <map>
                 <meters>2</meters>
                 <direction>NORTH</direction>
@@ -70,6 +69,7 @@
             </map>
             </view>
             <view>
+                <logo>drako</logo>
             <map>
                 <meters>1</meters>
                 <direction>NORTH</direction>
