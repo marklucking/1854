@@ -5,129 +5,367 @@
 		<uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFC3</uui>
 		<message>C3 Beacon</message>
         <view>
-		<map>
-			<meters>32</meters>
-			<image>wb</image>
-		</map>
+            <logo>1024x768x32M</logo>
+            <map>
+                <meters>32</meters>
+                <direction>NORTH</direction>
+                <anim>
+                    <image>1024x768N</image>
+                </anim>
+            </map>
+            <map>
+                <meters>32</meters>
+                <direction>NE</direction>
+                <anim>
+                    <image>1024x768NE</image>
+                </anim>
+            </map>
+            <map>
+                <meters>32</meters>
+                <direction>EAST</direction>
+                <anim>
+                    <image>1024x768E</image>
+                </anim>
+            </map>
+            <map>
+                <meters>32</meters>
+                <direction>SE</direction>
+                <anim>
+                    <image>1024x768SE</image>
+                </anim>
+            </map>
+            <map>
+                <meters>32</meters>
+                <direction>SOUTH</direction>
+                <anim>
+                    <image>1024x768S</image>
+                </anim>
+            </map>
+            <map>
+                <meters>32</meters>
+                <direction>SW</direction>
+                <anim>
+                    <image>1024x768SW</image>
+                </anim>
+            </map>
+            <map>
+                <meters>32</meters>
+                <direction>W</direction>
+                <anim>
+                    <image>1024x768W</image>
+                </anim>
+            </map>
+            <map>
+                <meters>32</meters>
+                <direction>NW</direction>
+                <anim>
+                    <image>1024x768NW</image>
+                </anim>
+            </map>
         </view>
-        <view>
-            <map>
-                <meters>2</meters>
-                <direction>NORTH</direction>
-                <anim>
-                    <image>x2N</image>
-                </anim>
-            </map>
-            <map>
-                <meters>2</meters>
-                <direction>NE</direction>
-                <anim>
-                    <image>x2NE</image>
-                </anim>
-            </map>
-            <map>
-                <meters>2</meters>
-                <direction>EAST</direction>
-                <anim>
-                    <image>x2E</image>
-                </anim>
-            </map>
-            <map>
-                <meters>2</meters>
-                <direction>SE</direction>
-                <anim>
-                    <image>x2SE</image>
-                </anim>
-            </map>
-            <map>
-                <meters>2</meters>
-                <direction>SOUTH</direction>
-                <anim>
-                    <image>x2S</image>
-                </anim>
-            </map>
-            <map>
-                <meters>2</meters>
-                <direction>SW</direction>
-                <anim>
-                    <image>x2SW</image>
-                </anim>
-            </map>
-            <map>
-                <meters>2</meters>
-                <direction>W</direction>
-                <anim>
-                    <image>x2W</image>
-                </anim>
-            </map>
-            <map>
-                <meters>2</meters>
-                <direction>NW</direction>
-                <anim>
-                    <image>x2NW</image>
-                </anim>
-            </map>
-            </view>
-            <view>
-                <logo>eSlide1</logo>
+
+<view>
+    <logo>1024x768x16M</logo>
+    <map>
+        <meters>16</meters>
+        <direction>NORTH</direction>
+        <anim>
+            <image>1024x768N</image>
+        </anim>
+    </map>
+    <map>
+        <meters>16</meters>
+        <direction>NE</direction>
+        <anim>
+            <image>1024x768NE</image>
+        </anim>
+    </map>
+    <map>
+        <meters>16</meters>
+        <direction>EAST</direction>
+        <anim>
+            <image>1024x768E</image>
+        </anim>
+    </map>
+    <map>
+        <meters>16</meters>
+        <direction>SE</direction>
+        <anim>
+            <image>1024x768SE</image>
+        </anim>
+    </map>
+    <map>
+        <meters>16</meters>
+        <direction>SOUTH</direction>
+        <anim>
+            <image>1024x768S</image>
+        </anim>
+    </map>
+    <map>
+        <meters>16</meters>
+        <direction>SW</direction>
+        <anim>
+            <image>1024x768SW</image>
+        </anim>
+    </map>
+    <map>
+        <meters>16</meters>
+        <direction>W</direction>
+        <anim>
+            <image>1024x768W</image>
+        </anim>
+    </map>
+    <map>
+        <meters>16</meters>
+        <direction>NW</direction>
+        <anim>
+            <image>1024x768NW</image>
+        </anim>
+    </map>
+</view>
+
+<view>
+    <logo>1024x768x8M</logo>
+    <map>
+        <meters>8</meters>
+        <direction>NORTH</direction>
+        <anim>
+            <image>1024x768N</image>
+        </anim>
+    </map>
+    <map>
+        <meters>8</meters>
+        <direction>NE</direction>
+        <anim>
+            <image>1024x768NE</image>
+        </anim>
+    </map>
+    <map>
+        <meters>8</meters>
+        <direction>EAST</direction>
+        <anim>
+            <image>1024x768E</image>
+        </anim>
+    </map>
+    <map>
+        <meters>8</meters>
+        <direction>SE</direction>
+        <anim>
+            <image>1024x768SE</image>
+        </anim>
+    </map>
+    <map>
+        <meters>8</meters>
+        <direction>SOUTH</direction>
+        <anim>
+            <image>1024x768S</image>
+        </anim>
+    </map>
+    <map>
+        <meters>8</meters>
+        <direction>SW</direction>
+        <anim>
+            <image>1024x768SW</image>
+        </anim>
+    </map>
+    <map>
+        <meters>8</meters>
+        <direction>W</direction>
+        <anim>
+            <image>1024x768W</image>
+        </anim>
+    </map>
+    <map>
+        <meters>8</meters>
+        <direction>NW</direction>
+        <anim>
+            <image>1024x768NW</image>
+        </anim>
+    </map>
+</view>
+
+<view>
+    <logo>1024x768x4M</logo>
+    <map>
+        <meters>4</meters>
+        <direction>NORTH</direction>
+        <anim>
+            <image>1024x768N</image>
+        </anim>
+    </map>
+    <map>
+        <meters>4</meters>
+        <direction>NE</direction>
+        <anim>
+            <image>1024x768NE</image>
+        </anim>
+    </map>
+    <map>
+        <meters>4</meters>
+        <direction>EAST</direction>
+        <anim>
+            <image>1024x768E</image>
+        </anim>
+    </map>
+    <map>
+        <meters>4</meters>
+        <direction>SE</direction>
+        <anim>
+            <image>1024x768SE</image>
+        </anim>
+    </map>
+    <map>
+        <meters>4</meters>
+        <direction>SOUTH</direction>
+        <anim>
+            <image>1024x768S</image>
+        </anim>
+    </map>
+    <map>
+        <meters>4</meters>
+        <direction>SW</direction>
+        <anim>
+            <image>1024x768SW</image>
+        </anim>
+    </map>
+    <map>
+        <meters>4</meters>
+        <direction>W</direction>
+        <anim>
+            <image>1024x768W</image>
+        </anim>
+    </map>
+    <map>
+        <meters>4</meters>
+        <direction>NW</direction>
+        <anim>
+            <image>1024x768NW</image>
+        </anim>
+    </map>
+</view>
+
+<view>
+    <logo>1024x768x2M</logo>
+    <map>
+        <meters>2</meters>
+        <direction>NORTH</direction>
+        <anim>
+            <image>1024x768N</image>
+        </anim>
+    </map>
+    <map>
+        <meters>2</meters>
+        <direction>NE</direction>
+        <anim>
+            <image>1024x768NE</image>
+        </anim>
+    </map>
+    <map>
+        <meters>2</meters>
+        <direction>EAST</direction>
+        <anim>
+            <image>1024x768E</image>
+        </anim>
+    </map>
+    <map>
+        <meters>2</meters>
+        <direction>SE</direction>
+        <anim>
+            <image>1024x768SE</image>
+        </anim>
+    </map>
+    <map>
+        <meters>2</meters>
+        <direction>SOUTH</direction>
+        <anim>
+            <image>1024x768S</image>
+        </anim>
+    </map>
+    <map>
+        <meters>2</meters>
+        <direction>SW</direction>
+        <anim>
+            <image>1024x768SW</image>
+        </anim>
+    </map>
+    <map>
+        <meters>2</meters>
+        <direction>W</direction>
+        <anim>
+            <image>1024x768W</image>
+        </anim>
+    </map>
+    <map>
+        <meters>2</meters>
+        <direction>NW</direction>
+        <anim>
+            <image>1024x768NW</image>
+        </anim>
+    </map>
+</view>
+
+<view>
+                <logo>1024x768x1M</logo>
             <map>
                 <meters>1</meters>
                 <direction>NORTH</direction>
                 <anim>
-                    <image>x1NORTH</image>
+                    <image>1024x768N</image>
                 </anim>
             </map>
             <map>
                 <meters>1</meters>
                 <direction>NE</direction>
                 <anim>
-                    <image>x1NE</image>
+                    <image>1024x768NE</image>
                 </anim>
             </map>
             <map>
                 <meters>1</meters>
                 <direction>EAST</direction>
                 <anim>
-                    <image>x1EAST</image>
+                    <image>1024x768E</image>
                 </anim>
             </map>
             <map>
                 <meters>1</meters>
                 <direction>SE</direction>
                 <anim>
-                    <image>x1SE</image>
+                    <image>1024x768SE</image>
                 </anim>
             </map>
             <map>
                 <meters>1</meters>
                 <direction>SOUTH</direction>
                 <anim>
-                    <image>x1SOUTH</image>
+                    <image>1024x768S</image>
                 </anim>
             </map>
             <map>
                 <meters>1</meters>
                 <direction>SW</direction>
                 <anim>
-                    <image>x1SW</image>
+                    <image>1024x768SW</image>
                 </anim>
             </map>
             <map>
                 <meters>1</meters>
                 <direction>W</direction>
                 <anim>
-                    <image>x1WEST</image>
+                    <image>1024x768W</image>
                 </anim>
             </map>
             <map>
                 <meters>1</meters>
                 <direction>NW</direction>
                 <anim>
-                    <image>x1NW</image>
+                    <image>1024x768NW</image>
                 </anim>
             </map>
         </view>
     </node>
+    
+    
 <node>
     <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFC2</uui>
     <message>C2 Beacon</message>
