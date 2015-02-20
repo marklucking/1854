@@ -6,6 +6,14 @@
 		<message>C3 Beacon</message>
         <view>
             <logo>1024x768x32M</logo>
+            <gps>
+                <longitude>E7.01</longitude>
+                <latitude>N46.34</latitude>
+                <anim>
+                    <image>x1.1</image>
+                    <image>x1.2</image>
+                </anim>
+            </gps>
             <map>
                 <meters>32</meters>
                 <direction>NORTH</direction>
