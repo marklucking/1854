@@ -24,6 +24,60 @@
                     <image>x1.2</image>
                 </anim>
             </gps>
+            <gps>
+                <longitude>
+                    <degrees>7</degrees>
+                    <minutes>0</minutes>
+                    <seconds>36</seconds>
+                    <heading>E</heading>
+                </longitude>
+                <latitude>
+                    <degrees>46</degrees>
+                    <minutes>20</minutes>
+                    <seconds>25</seconds>
+                    <heading>N</heading>
+                </latitude>
+                <anim>
+                    <image>x1.1</image>
+                    <image>x1.2</image>
+                </anim>
+            </gps>
+            <gps>
+                <longitude>
+                    <degrees>7</degrees>
+                    <minutes>0</minutes>
+                    <seconds>36</seconds>
+                    <heading>E</heading>
+                </longitude>
+                <latitude>
+                    <degrees>46</degrees>
+                    <minutes>20</minutes>
+                    <seconds>24</seconds>
+                    <heading>N</heading>
+                </latitude>
+                <anim>
+                    <image>x1.1</image>
+                    <image>x1.2</image>
+                </anim>
+            </gps>
+            <gps>
+                <longitude>
+                    <degrees>7</degrees>
+                    <minutes>0</minutes>
+                    <seconds>36</seconds>
+                    <heading>E</heading>
+                </longitude>
+                <latitude>
+                    <degrees>46</degrees>
+                    <minutes>20</minutes>
+                    <seconds>23</seconds>
+                    <heading>N</heading>
+                </latitude>
+                <anim>
+                    <image>x1.1</image>
+                    <image>x1.2</image>
+                </anim>
+            </gps>
             <map>
                 <meters>32</meters>
                 <direction>NORTH</direction>
