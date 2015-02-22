@@ -210,56 +210,56 @@
         <meters>4</meters>
         <direction>NORTH</direction>
         <anim>
-            <image>1024x768N</image>
+            <image>1024x768Nx4</image>
         </anim>
     </map>
     <map>
         <meters>4</meters>
         <direction>NE</direction>
         <anim>
-            <image>1024x768NE</image>
+            <image>1024x768NEx4</image>
         </anim>
     </map>
     <map>
         <meters>4</meters>
         <direction>EAST</direction>
         <anim>
-            <image>1024x768E</image>
+            <image>1024x768Ex4</image>
         </anim>
     </map>
     <map>
         <meters>4</meters>
         <direction>SE</direction>
         <anim>
-            <image>1024x768SE</image>
+            <image>1024x768SEx4</image>
         </anim>
     </map>
     <map>
         <meters>4</meters>
         <direction>SOUTH</direction>
         <anim>
-            <image>1024x768S</image>
+            <image>1024x768Sx4</image>
         </anim>
     </map>
     <map>
         <meters>4</meters>
         <direction>SW</direction>
         <anim>
-            <image>1024x768SW</image>
+            <image>1024x768SWx4</image>
         </anim>
     </map>
     <map>
         <meters>4</meters>
         <direction>W</direction>
         <anim>
-            <image>1024x768W</image>
+            <image>1024x768Wx4</image>
         </anim>
     </map>
     <map>
         <meters>4</meters>
         <direction>NW</direction>
         <anim>
-            <image>1024x768NW</image>
+            <image>1024x768NWx4</image>
         </anim>
     </map>
 </view>
@@ -270,56 +270,56 @@
         <meters>2</meters>
         <direction>NORTH</direction>
         <anim>
-            <image>1024x768N</image>
+            <image>1024x768Nx2</image>
         </anim>
     </map>
     <map>
         <meters>2</meters>
         <direction>NE</direction>
         <anim>
-            <image>1024x768NE</image>
+            <image>1024x768NEx2</image>
         </anim>
     </map>
     <map>
         <meters>2</meters>
         <direction>EAST</direction>
         <anim>
-            <image>1024x768E</image>
+            <image>1024x768Ex2</image>
         </anim>
     </map>
     <map>
         <meters>2</meters>
         <direction>SE</direction>
         <anim>
-            <image>1024x768SE</image>
+            <image>1024x768SEx2</image>
         </anim>
     </map>
     <map>
         <meters>2</meters>
         <direction>SOUTH</direction>
         <anim>
-            <image>1024x768S</image>
+            <image>1024x768Sx2</image>
         </anim>
     </map>
     <map>
         <meters>2</meters>
         <direction>SW</direction>
         <anim>
-            <image>1024x768SW</image>
+            <image>1024x768SWx2</image>
         </anim>
     </map>
     <map>
         <meters>2</meters>
         <direction>W</direction>
         <anim>
-            <image>1024x768W</image>
+            <image>1024x768Wx2</image>
         </anim>
     </map>
     <map>
         <meters>2</meters>
         <direction>NW</direction>
         <anim>
-            <image>1024x768NW</image>
+            <image>1024x768NWx2</image>
         </anim>
     </map>
 </view>
