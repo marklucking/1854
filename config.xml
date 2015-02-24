@@ -32,11 +32,11 @@
             <degrees>46</degrees>
             <minutes>20</minutes>
             <minseconds>25</minseconds>
-            <maxseconds>26</maxseconds>
+            <maxseconds>27</maxseconds>
             <heading>N</heading>
         </latitude>
         <anim>
-            <image>GPS35.25-26</image>
+            <image>GPS35.25-27</image>
         </anim>
     </gps>
     <gps>
