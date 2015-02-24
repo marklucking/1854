@@ -17,7 +17,7 @@
             <heading>N</heading>
         </latitude>
         <anim>
-            <image>GPS 35.23-24</image>
+            <image>GPS35.23-24</image>
         </anim>
     </gps>
     <gps>
@@ -36,7 +36,7 @@
             <heading>N</heading>
         </latitude>
         <anim>
-            <image>GPS 35.25-26</image>
+            <image>GPS35.25-26</image>
         </anim>
     </gps>
     <gps>
@@ -55,7 +55,7 @@
             <heading>N</heading>
         </latitude>
         <anim>
-            <image>GPS 36.23-24</image>
+            <image>GPS36.23-24</image>
         </anim>
     </gps>
     <gps>
@@ -69,12 +69,12 @@
         <latitude>
             <degrees>46</degrees>
             <minutes>20</minutes>
-            <minseconds>23</minseconds>
+            <minseconds>25</minseconds>
             <maxseconds>26</maxseconds>
             <heading>N</heading>
         </latitude>
         <anim>
-            <image>GPS 36.25-26</image>
+            <image>GPS36.25-26</image>
         </anim>
     </gps>
     <gps>
@@ -93,7 +93,7 @@
             <heading>N</heading>
         </latitude>
         <anim>
-            <image>GPS 37.23-24</image>
+            <image>GPS37.23-24</image>
         </anim>
     </gps>
     <gps>
@@ -112,7 +112,7 @@
             <heading>N</heading>
         </latitude>
         <anim>
-            <image>GPS 37.25-26</image>
+            <image>GPS37.25-26</image>
         </anim>
     </gps>
     
