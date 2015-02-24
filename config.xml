@@ -1,6 +1,122 @@
 <ibeacons>
     <sightings>2</sightings>
     <samples>2</samples>
+    <gps>
+        <longitude>
+            <degrees>7</degrees>
+            <minutes>0</minutes>
+            <minseconds>35</minseconds>
+            <maxseconds>35</maxseconds>
+            <heading>E</heading>
+        </longitude>
+        <latitude>
+            <degrees>46</degrees>
+            <minutes>20</minutes>
+            <minseconds>23</minseconds>
+            <maxseconds>24</maxseconds>
+            <heading>N</heading>
+        </latitude>
+        <anim>
+            <image>GPS 35.23-24</image>
+        </anim>
+    </gps>
+    <gps>
+        <longitude>
+            <degrees>7</degrees>
+            <minutes>0</minutes>
+            <minseconds>35</minseconds>
+            <maxseconds>35</maxseconds>
+            <heading>E</heading>
+        </longitude>
+        <latitude>
+            <degrees>46</degrees>
+            <minutes>20</minutes>
+            <minseconds>25</minseconds>
+            <maxseconds>26</maxseconds>
+            <heading>N</heading>
+        </latitude>
+        <anim>
+            <image>GPS 35.25-26</image>
+        </anim>
+    </gps>
+    <gps>
+        <longitude>
+            <degrees>7</degrees>
+            <minutes>0</minutes>
+            <minseconds>36</minseconds>
+            <maxseconds>36</maxseconds>
+            <heading>E</heading>
+        </longitude>
+        <latitude>
+            <degrees>46</degrees>
+            <minutes>20</minutes>
+            <minseconds>23</minseconds>
+            <maxseconds>24</maxseconds>
+            <heading>N</heading>
+        </latitude>
+        <anim>
+            <image>GPS 36.23-24</image>
+        </anim>
+    </gps>
+    <gps>
+        <longitude>
+            <degrees>7</degrees>
+            <minutes>0</minutes>
+            <minseconds>36</minseconds>
+            <maxseconds>36</maxseconds>
+            <heading>E</heading>
+        </longitude>
+        <latitude>
+            <degrees>46</degrees>
+            <minutes>20</minutes>
+            <minseconds>23</minseconds>
+            <maxseconds>26</maxseconds>
+            <heading>N</heading>
+        </latitude>
+        <anim>
+            <image>GPS 36.25-26</image>
+        </anim>
+    </gps>
+    <gps>
+        <longitude>
+            <degrees>7</degrees>
+            <minutes>0</minutes>
+            <minseconds>37</minseconds>
+            <maxseconds>37</maxseconds>
+            <heading>E</heading>
+        </longitude>
+        <latitude>
+            <degrees>46</degrees>
+            <minutes>20</minutes>
+            <minseconds>23</minseconds>
+            <maxseconds>24</maxseconds>
+            <heading>N</heading>
+        </latitude>
+        <anim>
+            <image>GPS 37.23-24</image>
+        </anim>
+    </gps>
+    <gps>
+        <longitude>
+            <degrees>7</degrees>
+            <minutes>0</minutes>
+            <minseconds>37</minseconds>
+            <maxseconds>37</maxseconds>
+            <heading>E</heading>
+        </longitude>
+        <latitude>
+            <degrees>46</degrees>
+            <minutes>20</minutes>
+            <minseconds>25</minseconds>
+            <maxseconds>26</maxseconds>
+            <heading>N</heading>
+        </latitude>
+        <anim>
+            <image>GPS 37.25-26</image>
+        </anim>
+    </gps>
+    
+    
 	<node>
 		<uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFC3</uui>
 		<message>C3 Beacon</message>
@@ -325,7 +441,7 @@
 </view>
 
 <view>
-                <logo>1024x768x1M</logo>
+        <logo>1024x768x1M</logo>
             <map>
                 <meters>1</meters>
                 <direction>NORTH</direction>
