@@ -652,7 +652,8 @@
                 <image>s2NE</image>
             </anim>
         </map>
-    
+        </view>
+        <view>
         <map>
             <meters>8</meters>
             <anim>
@@ -660,7 +661,8 @@
                 <image>s4SE</image>
             </anim>
         </map>
-   
+        </view>
+        <view>
         <map>
             <meters>4</meters>
             <anim>
@@ -668,7 +670,8 @@
                 <image>s6SW</image>
             </anim>
         </map>
-   
+        </view>
+        <view>
         <map>
             <meters>2</meters>
             <anim>
@@ -676,6 +679,6 @@
                 <image>s8NW</image>
             </anim>
         </map>
-    </view>
+        </view>
 </node>
 </ibeacons>
