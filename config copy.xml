@@ -691,6 +691,21 @@
             <direction>North</direction>
             <image>gb.1N</image>
         </map>
+        <map>
+            <meters>32</meters>
+            <direction>East</direction>
+            <image>gb.1E</image>
+        </map>
+        <map>
+            <meters>32</meters>
+            <direction>South</direction>
+            <image>gb.1S</image>
+        </map>
+        <map>
+            <meters>32</meters>
+            <direction>West</direction>
+            <image>gb.1W</image>
+        </map>
         </view>
 </node>
 </ibeacons>
