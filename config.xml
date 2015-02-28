@@ -643,7 +643,7 @@
 </node>
 <node>
     <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA4</uui>
-    <message>A4D Beacon</message>
+    <message>A4e Beacon</message>
     <view>
         <map>
             <meters>32</meters>
@@ -652,8 +652,7 @@
                 <image>s2NE</image>
             </anim>
         </map>
-    </view>
-    <view>
+    
         <map>
             <meters>8</meters>
             <anim>
@@ -661,8 +660,7 @@
                 <image>s4SE</image>
             </anim>
         </map>
-    </view>
-    <view>
+   
         <map>
             <meters>4</meters>
             <anim>
@@ -670,8 +668,7 @@
                 <image>s6SW</image>
             </anim>
         </map>
-    </view>
-    <view>
+   
         <map>
             <meters>2</meters>
             <anim>
