@@ -643,26 +643,7 @@
 </node>
 <node>
     <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA4</uui>
-    <message>A4 Beacon</message>
-    <view>
-        <map>
-            <meters>32</meters>
-            <anim>
-                <image>mapB5zero.1</image>
-                <image>mapB5zero.2</image>
-                <image>mapB5zero.3</image>
-            </anim>
-        </map>
-    </view>
-    <view>
-        <map>
-            <meters>8</meters>
-            <anim>
-                <image>mapB5one.1</image>
-                <image>mapB5one.2</image>
-            </anim>
-        </map>
-    </view>
+    <message>A4B Beacon</message>
     <view>
         <map>
             <meters>4</meters>
