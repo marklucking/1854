@@ -679,13 +679,6 @@
                 <image>s8NW</image>
             </anim>
         </map>
-        <map>
-            <meters>2</meters>
-            <anim>
-                <image>s7WEST</image>
-                <image>s8NW</image>
-            </anim>
-        </map>
         </view>
 </node>
 </ibeacons>
