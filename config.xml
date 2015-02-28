@@ -687,7 +687,7 @@
         <message>A4 green Beacon</message>
         <view>
         <map>
-            <meters>32</meters>
+            <meters>1</meters>
             <direction>North</direction>
             <image>gb.1N</image>
         </map>
