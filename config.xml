@@ -575,47 +575,6 @@
         </map>
         </view>
     </node>
-<node>
-	<uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA4</uui>
-    <message>B5 Beacon</message>
-    <view>
-    <map>
-        <meters>32</meters>
-        <anim>
-            <image>mapB5zero.1</image>
-            <image>mapB5zero.2</image>
-            <image>mapB5zero.3</image>
-        </anim>
-    </map>
-    </view>
-    <view>
-    <map>
-        <meters>8</meters>
-        <anim>
-            <image>mapB5one.1</image>
-            <image>mapB5one.2</image>
-	    </anim>
-        </map>
-    </view>
-    <view>
-        <map>
-        <meters>4</meters>
-        <anim>
-            <image>mapB5two.1</image>
-            <image>mapB5two.2</image>
-            </anim>
-        </map>
-        </view>
-        <view>
-        <map>
-        <meters>2</meters>
-        <anim>
-            <image>mapB5three.1</image>
-            <image>mapB5three.2</image>
-            </anim>
-        </map>
-        </view>
-    </node>
     <node>
 	<uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA1</uui>
 	<message>A1 red Beacon</message>
@@ -681,5 +640,46 @@
             <audio>yellow</audio>
         </map>
         </view>
+</node>
+<node>
+    <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA4</uui>
+    <message>A4 Beacon</message>
+    <view>
+        <map>
+            <meters>32</meters>
+            <anim>
+                <image>mapB5zero.1</image>
+                <image>mapB5zero.2</image>
+                <image>mapB5zero.3</image>
+            </anim>
+        </map>
+    </view>
+    <view>
+        <map>
+            <meters>8</meters>
+            <anim>
+                <image>mapB5one.1</image>
+                <image>mapB5one.2</image>
+            </anim>
+        </map>
+    </view>
+    <view>
+        <map>
+            <meters>4</meters>
+            <anim>
+                <image>mapB5two.1</image>
+                <image>mapB5two.2</image>
+            </anim>
+        </map>
+    </view>
+    <view>
+        <map>
+            <meters>2</meters>
+            <anim>
+                <image>mapB5three.1</image>
+                <image>mapB5three.2</image>
+            </anim>
+        </map>
+    </view>
 </node>
 </ibeacons>
