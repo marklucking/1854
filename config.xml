@@ -693,4 +693,15 @@
         </map>
         </view>
 </node>
+<node>
+    <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA5</uui>
+    <message>A5 green Beacon</message>
+    <view>
+        <map>
+            <meters>1</meters>
+            <direction>North</direction>
+            <image>gb.1N</image>
+        </map>
+    </view>
+</node>
 </ibeacons>
