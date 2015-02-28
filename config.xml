@@ -689,7 +689,8 @@
         <map>
             <meters>1</meters>
             <direction>North</direction>
-            <image>gb.1N</image>
+            <image>hunter</image>
+            <audio>yellow</audio>
         </map>
         </view>
 </node>
