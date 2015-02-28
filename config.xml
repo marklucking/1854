@@ -500,7 +500,7 @@
     
     
 <node>
-    <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA4</uui>
+    <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFC2</uui>
     <message>C2 Beacon</message>
       <view>
         <map>
@@ -576,7 +576,7 @@
         </view>
     </node>
 <node>
-	<uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFB5</uui>
+	<uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA4</uui>
     <message>B5 Beacon</message>
     <view>
     <map>
