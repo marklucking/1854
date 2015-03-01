@@ -643,7 +643,7 @@
 </node>
 <node>
     <uui>2F234454-CF6D-4A0F-ADF2-F4911BA9FFA4</uui>
-    <message>A4e Beacon</message>
+    <message>A4f Beacon</message>
     <view>
         <map>
             <meters>32</meters>
@@ -676,7 +676,7 @@
             <meters>2</meters>
             <anim>
                 <image>sF1</image>
-                <image>SF2</image>
+                <image>sF2</image>
             </anim>
         </map>
         </view>
